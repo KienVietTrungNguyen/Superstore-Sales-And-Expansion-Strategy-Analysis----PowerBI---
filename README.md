@@ -31,13 +31,16 @@ Here is 4 steps of design thinking
 
 ### Step 1: Empathize
 
-<img width="1140" height="590" alt="image" src="https://github.com/user-attachments/assets/22c15b79-8c19-448a-b638-55b7ae4a0615" />
-<img width="691" height="645" alt="image" src="https://github.com/user-attachments/assets/0e9a6b6e-9c14-49c5-842e-347f5e85ad47" />
+<img width="1691" height="930" alt="image" src="https://github.com/user-attachments/assets/0271800b-3555-4e2c-b246-71a5d6df26e3" />
+
+<img width="1202" height="1309" alt="image" src="https://github.com/user-attachments/assets/cf50d116-4fad-465d-9655-a172191ad098" />
+
 <img width="358" height="618" alt="image" src="https://github.com/user-attachments/assets/c1d291f1-5ecf-40a0-98d1-0a4cd0baf356" />
 
 ### Step 2: Define
 
-<img width="585" height="490" alt="image" src="https://github.com/user-attachments/assets/72906dfa-1902-4d0e-b32f-a5301690ceff" />
+<img width="1083" height="1453" alt="image" src="https://github.com/user-attachments/assets/08325ad0-b5e3-468e-8825-23b67c8e18b1" />
+
 <img width="575" height="461" alt="image" src="https://github.com/user-attachments/assets/6a185e93-89eb-43f5-90b5-5d68c1f9d24e" />
 <img width="783" height="458" alt="image" src="https://github.com/user-attachments/assets/1b6340fb-8b74-4251-8182-ff1f85b4cb8a" />
 
