@@ -47,7 +47,8 @@ Here is 4 steps of design thinking
 
 ### Step 3: Ideate
 
-<img width="708" height="603" alt="image" src="https://github.com/user-attachments/assets/4503021b-22d6-4b95-89ad-6a644b1771fd" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e2ba5adc-daf5-44e3-b35a-f354354df6ee" />
+
 <img width="1055" height="571" alt="image" src="https://github.com/user-attachments/assets/05c7b48f-bc56-4484-8393-5ed7dde38e73" />
 
 ### Step 4: Prototype and Review
